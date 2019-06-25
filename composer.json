@@ -1,0 +1,12 @@
+{
+    "name": "yamaguppy31/debug-timer",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DebugTimer\\": "src/"
+        }
+    }
+}
