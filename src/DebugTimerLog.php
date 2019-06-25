@@ -1,8 +1,6 @@
 <?php
 /**
  * Created by dai.yamaguchi
- * DATE: 2019/06/20
- *
  */
 
 namespace DebugTimer;
