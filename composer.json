@@ -3,7 +3,10 @@
     "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+	 "php": ">=7.0.0",
+        "laravel/framework": "5.*"
+	},
     "autoload": {
         "psr-4": {
             "DebugTimer\\": "src/"
